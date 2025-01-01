@@ -25,5 +25,4 @@ This repo has all you need to animate GPS tracks using QGIS. Follow the simple s
 - Export the Animation:
     - Install the Time Manager plugin or use the Temporal Controller.
     - Export the animation as a video or series of images using Project > Export > Export as Animation.
-
-![track](bikeTrack.gif)
+![track](/GPS-tracking-with-QGIS/Assets/Images/bikeTrack.gif)
