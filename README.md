@@ -1,7 +1,7 @@
 ## GPS Track Animation with GPS
 
 
-This repo has all you need to annimate GPS tracks using QGIS. Follow the simple steps below.
+This repo has all you need to animate GPS tracks using QGIS. Follow the simple steps below.
 
 
 ### Here's a concise guide: Steps to Animate GPS Tracks in QGIS
@@ -27,4 +27,4 @@ This repo has all you need to annimate GPS tracks using QGIS. Follow the simple 
     - Export the animation as a video or series of images using Project > Export > Export as Animation.
 
 
-![track](/bikeTrack.gif)
+![/bikeTrack.gif](https://github.com/martinsbuchi2/GPS-tracking-with-QGIS/blob/main/bikeTrack.gif)
